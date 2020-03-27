@@ -1,0 +1,11 @@
+https://drive.google.com/drive/folders/1cAM251bjoBCYF2bHfMM07MOGEgU2Q2VQ
+
+
+
+The key differences between Python 2.7.x and Python 3.x with examples
+http://sebastianraschka.com/Articles/2014_python_2_3_key_diff.html
+
+
+Python 3 Readiness
+Python 3 support graph for the 360 most popular Python packages!
+http://py3readiness.org/
